@@ -2,7 +2,8 @@
 
 A beautiful, responsive web application for tracking pregnancy milestones and sharing community tips. Built as a feature module for the BabySteps platform.
 
-![BabySteps Milestone Tracker](https://images.pexels.com/photos/1556663/pexels-photo-1556663.jpeg?auto=compress&cs=tinysrgb&w=800&h=400&crop=entropy&fit=crop)
+![image](https://github.com/user-attachments/assets/82d4bf20-18e8-4811-88ce-08d8bab1dba2)
+
 
 ## 🚀 Quick Start
 
@@ -115,7 +116,7 @@ babysteps-platform/
 
 ### Data Storage
 
-- **In-Memory Storage**: For development simplicity, data is stored in server memory
+- **Cloud Storage**: For production data is stored in MongoDb Atlas
 - **RESTful API**: Clean API design with proper HTTP methods and status codes
 - **Structured Data**: Well-defined interfaces for milestones, tips, and recommendations
 
