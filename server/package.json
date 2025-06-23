@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon server.js",
-    "server": "node index.js",
+    "start": "node server.js",
     "seed": "node seed/seedData.js"
   },
   "keywords": [],
